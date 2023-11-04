@@ -15,8 +15,10 @@
     (Your Name)
     (Your Name)
  Penjelasan : 
-Pada kondisi ini saya menggunakan For untuk melakukan looping, dapat dilihat dari soal pada index ke 10 nilai nya berubah menjadi (Your Name). Maka dari itu kita harus memberikan conditional statement di index ke 10 
+Pada kondisi ini saya menggunakan For untuk melakukan looping, dapat dilihat dari soal pada index ke 10 nilai nya berubah menjadi "Rayhan Muhammad Adha" yang di tampung dalam variable name. Maka dari itu kita harus memberikan conditional statement di index ke 10 
 
+        String name = "Rayhan Muhammad Adha";
+        String npm = "G1A023051";
      if (i<10){
         System.out.println(i)
         }
