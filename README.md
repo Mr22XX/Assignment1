@@ -19,6 +19,9 @@ Pada kondisi ini saya menggunakan For untuk melakukan looping, dapat dilihat dar
 
         String name = "Rayhan Muhammad Adha";
         String npm = "G1A023051";
+        System.out.println("Nama : " + name);
+        System.out.println("NPM : " + npm);
+        System.out.println("=================");
      if (i<10){
         System.out.println(i)
         }
@@ -26,7 +29,7 @@ Pada kondisi ini saya menggunakan For untuk melakukan looping, dapat dilihat dar
         System.out.println(name)
         }  
 
-Maksud dari kondisi di atas adalah Jika (i < 10) maka akan menghasilkan output angka 1-9 dan jika i telah lebih dari 9 maka akan menghasilkan output "Your Name"
+Maksud dari kondisi di atas adalah Jika (i < 10) maka akan menghasilkan output angka 1-9 dan jika i telah lebih dari 9 maka akan menghasilkan output "Rayhan Muhammad Adha" dari variable name
 dan hasilnya akan sama seperti soal di atas.
 ### Output :
     Nama : Rayhan Muhammad Adha
