@@ -21,7 +21,7 @@ Pada kondisi ini saya menggunakan For untuk melakukan looping, dapat dilihat dar
         System.out.println(i)
         }
         else{
-        System.out.println("Your Name")
+        System.out.println(name)
         }  
 
 Maksud dari kondisi di atas adalah Jika (i < 10) maka akan menghasilkan output angka 1-9 dan jika i telah lebih dari 9 maka akan menghasilkan output "Your Name"
