@@ -72,7 +72,7 @@ Pada baris ke-1 yaitu mengubah Scanner ke dalam variable tampung yang mana value
                   System.out.println("Bilangan ganjil.");
               }
 Pada code baris ke- 1 yaitu memberikan kondisi jika angka == 00 atau inputan berupa 00 maka akan keluar output seperti pada baris ke 2 dan looping akan berhenti dikarenakan dilakukan break.
-pada code baris ke-4 (else if) yaitu memberikan kondisi bahwa jika angka(inputan) modulo 2 bernilai 0 maka akan mengeluarkan input : "Bilangan genap", seperti yang kita ketahui jika  bilangan atau angka di bagi 2 dan sisa baginya adalah 0 maka bilangan atau angka termasuk bilangan genap begitu juga sebaliknya. Pada code baris ke-6 (else) jika 2 kondisi diatasnya bernilai false maka output nya adalah "Bilangan ganjil".
+pada code baris ke-4 (else if) yaitu memberikan kondisi bahwa jika angka(inputan) modulo 2 bernilai 0 maka akan mengeluarkan output : "Bilangan genap", seperti yang kita ketahui jika  bilangan atau angka di bagi 2 dan sisa baginya adalah 0 maka bilangan atau angka termasuk bilangan genap begitu juga sebaliknya. Pada code baris ke-6 (else) jika 2 kondisi diatasnya bernilai false maka output nya adalah "Bilangan ganjil".
 
 ## Contoh Output : 
           Masukkan bilangan dan (untuk memberhentikan program ketik (00) lalu enter) : 1
